@@ -31,12 +31,6 @@ Para desenvolver este projeto, é essencial ter amplo conhecimento e experiênci
 
 O design e o layout da aplicação foram criados cuidadosamente pela equipe da [rocketseat](https://www.rocketseat.com.br/) para fornecer uma experiência amigável ao usuário e visualmente atraente.
 
-Para acessar e duplicar o layout, siga as instruções abaixo:
-
-Crie uma conta no Figma visitando a página de cadastro do Figma.
-Após criar sua conta, [clique aqui](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate) para duplicar o layout para a sua conta Figma. Isso adicionará o layout à sua dashboard do Figma como uma cópia e permitirá que você faça alterações personalizadas, se desejar.
-Desenvolvimento
-
 Como um desenvolvedor frontend com  um ano de experiência, eu pude aproveitar essa oportunidade para demonstrar minha criatividade e aprimorar minhas habilidades. Considere as seguintes melhorias:
 
 * Personalização do Layout: Modifique o layout, esquema de cores e tipografia para adequá-los ao seu estilo pessoal e preferências. Experimente diferentes escolhas de design para criar uma aplicação visualmente impressionante.
